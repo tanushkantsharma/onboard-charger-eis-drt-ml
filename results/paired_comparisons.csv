@@ -1,0 +1,9 @@
+config,comparison,metric,mean,ci_lo,ci_hi,frac_bootstrap_le_0,n_runs,runs
+charger_baseline,drt_recon minus raw_z (uncalibrated),accuracy,0.019055864197530865,0.007407407407407418,0.031481481481481444,0.0005,,
+charger_baseline,drt_recon minus raw_z (uncalibrated),ECE,-0.07797816203603496,-0.08895185991863082,-0.06518022988093018,1.0,,
+charger_baseline,drt_recon minus raw_z (isotonic),ECE,-0.0007908881588284527,-0.013305409571387202,0.01216374272866049,0.544,,
+lab,drt_recon minus raw_z (uncalibrated),accuracy,-0.0006111111111111056,-0.0018518518518518823,0.0,1.0,,
+lab,drt_recon minus raw_z (uncalibrated),ECE,-0.0019882016295561487,-0.003439174382716069,-0.0006457261659808678,0.9985,,
+lab,drt_recon minus raw_z (isotonic),ECE,0.0004522868733106616,-0.0008634054191092393,0.0020458613595158745,0.303,,
+charger_baseline,"drt_recon minus raw_z, per re-measurement seed",acc,0.022098765432098787,0.019753086419753152,0.029629629629629672,0.0,5.0,0:+0.020;1:+0.020;2:+0.030;fresh_population:+0.021;main:+0.020
+charger_baseline,"drt_recon minus raw_z, per re-measurement seed",ece,-0.0789929142393957,-0.08664021720734681,-0.07429649348422498,1.0,5.0,0:-0.087;1:-0.078;2:-0.076;fresh_population:-0.080;main:-0.074

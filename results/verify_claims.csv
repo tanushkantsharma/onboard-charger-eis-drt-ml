@@ -1,0 +1,106 @@
+claim,text,computed,ok
+loop crossover kHz,5.0,5.0012,True
+loop PM deg,52.0,52.3511,True
+loop GM dB,8.9,8.941,True
+loop gain at 1.4 kHz (+9 %),1.09,1.0899,True
+fast model std ratio min,0.85,0.8494,True
+fast model std ratio max,1.18,1.1841,True
+fast model bias diff <= 0.4 %,0.4,0.3994,True
+CV survives 10 mHz (62 %),0.62,0.6176,True
+CV survives 1 Hz (75 %),0.75,0.7454,True
+dead time THD crossing max 2.4 %,2.4,2.4158,True
+dead time THD no crossing <= 0.3 %,0.3,0.3068,True
+baseline test 11.1 min,11.1,11.111,True
+baseline median line error 0.6 %,0.6,0.622,True
+C/3 detrended median error 0.4 %,0.4,0.436,True
+C/3 no detrend max error ~100 %,100.0,101.503,True
+C/3 SOC drift 6 %,6.0,5.989,True
+phase1 DRT residual median 0.34 %,0.34,0.3365,True
+phase1 L error 0.39 nH,0.39,0.391,True
+phase1 R_inf corr 0.98,0.98,0.9794,True
+lab drt_recon|bol acc 0.999,0.999,0.9988,True
+lab drt_recon|abs acc 0.32,0.32,0.3204,True
+charger drt_recon|bol acc 0.964,0.964,0.9642,True
+charger drt_recon|bol ECE 0.052,0.052,0.0525,True
+charger drt_recon|bol MC ECE 0.076,0.076,0.0757,True
+charger raw_z acc 0.945,0.945,0.9451,True
+charger raw_z ECE 0.132,0.132,0.1323,True
+charger bands acc 0.764,0.764,0.7636,True
+charger abs acc 0.295,0.295,0.2951,True
+charger SOH RMSE 2.14,2.14,2.1373,True
+cov90 DRT-only 0.29,0.29,0.2932,True
+cov90 trees 0.87,0.87,0.8704,True
+cov90 conformal 0.93,0.93,0.9253,True
+Gibbs std ratio 1.01,1.01,1.005,True
+Laplace std ratio 1.79,1.79,1.7941,True
+evidence: 158 spectra prefer 1e5,158.0,158.0,True
+sweep amp 0.02 acc 0.70,0.7,0.6981,True
+sweep amp 2 acc 0.75,0.75,0.7457,True
+sweep noise x4 acc 0.91,0.91,0.9068,True
+sweep fmax 10 Hz acc 0.76,0.76,0.763,True
+sweep fmin 1 Hz acc 0.97,0.97,0.9691,True
+sweep fmin 1 mHz SOH 1.98,1.98,1.9823,True
+sweep P=8 acc 0.99,0.99,0.9938,True
+no-detrend C/3 SOH 2.35,2.35,2.3466,True
+map 0.2 A x4 acc 0.81,0.81,0.813,True
+seed repeat min 0.957,0.957,0.9574,True
+no dead-time distortion acc 0.991,0.991,0.9914,True
+EOL reference baseline acc 0.981,0.981,0.9809,True
+real SOH lab 1.13,1.13,1.1308,True
+real SOH no reference 2.46,2.46,2.4559,True
+real SOH trivial 1.47,1.47,1.4737,True
+real SOH charger 1.55,1.55,1.5521,True
+real SOH amp 0.05 1.89,1.89,1.89,True
+real SOH noise16 2.02,2.02,2.0189,True
+real sim-to-real balanced acc 0.41,0.41,0.4091,True
+confirm baseline acc 0.971,0.971,0.971,True
+confirm baseline ECE 0.050,0.05,0.05,True
+confirm baseline CI lo 0.957,0.957,0.9574,True
+confirm baseline CI hi 0.982,0.982,0.9821,True
+confirm raw acc 0.950,0.95,0.95,True
+confirm raw ECE 0.130,0.13,0.1304,True
+confirm bands acc 0.777,0.777,0.7765,True
+confirm abs acc 0.492,0.492,0.492,True
+confirm lab abs acc 0.483,0.483,0.4833,True
+confirm 0.05 A 0.837,0.837,0.837,True
+confirm 2 A 0.784,0.784,0.784,True
+confirm noise4 0.918,0.918,0.9179,True
+confirm noise16 0.794,0.794,0.7938,True
+confirm fmax10 0.781,0.781,0.7809,True
+confirm fmin1 0.967,0.967,0.9667,True
+confirm C/5 0.988,0.988,0.9877,True
+unit skew 5 us 0.970,0.97,0.9698,True
+unit skew 20 us 0.972,0.972,0.9716,True
+unit skew 50 us 0.963,0.963,0.963,True
+unit skew 100 us 0.952,0.952,0.9519,True
+unit skew ECE max 0.075,0.075,0.0748,True
+unit skew EOL 20 us 0.955,0.955,0.9549,True
+unit skew EOL 100 us 0.872,0.872,0.8716,True
+cal recon uncal 0.052,0.052,0.0525,True
+cal recon temp 0.009,0.009,0.0087,True
+cal recon iso 0.013,0.013,0.0127,True
+cal raw uncal 0.132,0.132,0.1323,True
+cal raw temp 0.006,0.006,0.0058,True
+cal raw iso 0.011,0.011,0.0114,True
+paired acc +0.019,0.019,0.0191,True
+paired acc lo 0.007,0.007,0.0074,True
+paired acc hi 0.031,0.031,0.0315,True
+paired ECE -0.078,-0.078,-0.078,True
+paired ECE CI -0.089,-0.089,-0.089,True
+paired ECE CI -0.065,-0.065,-0.0652,True
+paired iso ECE -0.001,-0.001,-0.0008,True
+paired iso ECE CI -0.013,-0.013,-0.0133,True
+paired iso ECE CI 0.012,0.012,0.0122,True
+seed acc gain min +0.020,0.02,0.0198,True
+seed acc gain max +0.030,0.03,0.0296,True
+loop crosscheck PM within 0.2 deg,0.0,0.03,True
+severity 0.15 charger acc 0.79,0.79,0.7889,True
+detrended C/3 SOH 1.68,1.68,1.6843,True
+fmin 1 Hz SOH 2.39,2.39,2.3928,True
+real SOH C/3 1.42,1.42,1.424,True
+real trivial R2 0.93,0.93,0.9302,True
+real recon R2 0.96,0.96,0.9589,True
+sim2real AUC all 0.57,0.57,0.5694,True
+sim2real AUC in-range 0.27,0.27,0.2677,True
+sim2real real LLI-dominant 74 %,0.74,0.7394,True
+severity >=0.3 charger acc >= 0.95,0.95,0.9481,True

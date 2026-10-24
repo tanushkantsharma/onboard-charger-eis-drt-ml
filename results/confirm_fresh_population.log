@@ -1,0 +1,9 @@
+[lab=lab] 283s  drt_recon: acc 1.000 ECE 0.022 SOH 1.98%  raw_z: acc 1.000 ECE 0.024 SOH 1.93%  drt_bands: acc 0.973 ECE 0.124 SOH 1.69%  drt_recon: acc 0.483 ECE 0.126 SOH 5.33%
+[charger_baseline=0.5A] 218s  drt_recon: acc 0.971 ECE 0.050 SOH 2.41%  raw_z: acc 0.950 ECE 0.130 SOH 2.69%  drt_bands: acc 0.777 ECE 0.092 SOH 3.60%  drt_recon: acc 0.492 ECE 0.129 SOH 5.36%
+[amplitude_A_per_cell=0.05] 90s  drt_recon: acc 0.837 ECE 0.053 SOH 3.05%
+[amplitude_A_per_cell=2.0] 88s  drt_recon: acc 0.784 ECE 0.055 SOH 3.16%
+[noise_scale=4] 86s  drt_recon: acc 0.918 ECE 0.058 SOH 2.66%
+[noise_scale=16] 90s  drt_recon: acc 0.794 ECE 0.055 SOH 3.33%
+[f_max_Hz=10.0] 55s  drt_recon: acc 0.781 ECE 0.045 SOH 2.97%
+[f_min_Hz=1.0] 52s  drt_recon: acc 0.967 ECE 0.044 SOH 2.63%
+[i_dc_C_rate=0.2] 84s  drt_recon: acc 0.988 ECE 0.042 SOH 1.82%

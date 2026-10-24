@@ -1,0 +1,54 @@
+[amplitude_A_per_cell=0.02] 189s  drt_recon: acc 0.698 ECE 0.029 SOH 3.26%  raw_z: acc 0.674 ECE 0.090 SOH 3.49%  drt_bands: acc 0.586 ECE 0.032 SOH 4.21%
+[amplitude_A_per_cell=0.05] 181s  drt_recon: acc 0.814 ECE 0.045 SOH 2.78%  raw_z: acc 0.775 ECE 0.127 SOH 3.05%  drt_bands: acc 0.649 ECE 0.059 SOH 3.91%
+[amplitude_A_per_cell=0.1] 176s  drt_recon: acc 0.893 ECE 0.063 SOH 2.42%  raw_z: acc 0.855 ECE 0.145 SOH 2.71%  drt_bands: acc 0.691 ECE 0.085 SOH 3.74%
+[amplitude_A_per_cell=0.2] 172s  drt_recon: acc 0.943 ECE 0.064 SOH 2.25%  raw_z: acc 0.914 ECE 0.142 SOH 2.52%  drt_bands: acc 0.730 ECE 0.103 SOH 3.63%
+[amplitude_A_per_cell=0.5] 171s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[amplitude_A_per_cell=1.0] 169s  drt_recon: acc 0.957 ECE 0.069 SOH 2.28%  raw_z: acc 0.934 ECE 0.179 SOH 2.43%  drt_bands: acc 0.736 ECE 0.092 SOH 3.59%
+[amplitude_A_per_cell=2.0] 173s  drt_recon: acc 0.746 ECE 0.043 SOH 2.96%  raw_z: acc 0.690 ECE 0.160 SOH 3.14%  drt_bands: acc 0.599 ECE 0.029 SOH 4.16%
+[noise_scale=0.25] 160s  drt_recon: acc 0.980 ECE 0.054 SOH 2.12%  raw_z: acc 0.962 ECE 0.123 SOH 2.29%  drt_bands: acc 0.800 ECE 0.114 SOH 3.24%
+[noise_scale=1] 168s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[noise_scale=4] 175s  drt_recon: acc 0.907 ECE 0.059 SOH 2.37%  raw_z: acc 0.876 ECE 0.150 SOH 2.66%  drt_bands: acc 0.716 ECE 0.102 SOH 3.72%
+[noise_scale=16] 178s  drt_recon: acc 0.757 ECE 0.040 SOH 3.05%  raw_z: acc 0.716 ECE 0.108 SOH 3.31%  drt_bands: acc 0.621 ECE 0.043 SOH 4.13%
+[noise_scale=64] 189s  drt_recon: acc 0.578 ECE 0.032 SOH 3.70%  raw_z: acc 0.549 ECE 0.050 SOH 3.78%  drt_bands: acc 0.492 ECE 0.042 SOH 4.61%
+[f_min_Hz=0.001] 192s  drt_recon: acc 0.978 ECE 0.060 SOH 1.98%  raw_z: acc 0.960 ECE 0.144 SOH 2.22%  drt_bands: acc 0.793 ECE 0.140 SOH 3.09%
+[f_min_Hz=0.01] 165s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[f_min_Hz=0.1] 133s  drt_recon: acc 0.962 ECE 0.046 SOH 2.34%  raw_z: acc 0.946 ECE 0.129 SOH 2.41%  drt_bands: acc 0.763 ECE 0.106 SOH 3.45%
+[f_min_Hz=1.0] 105s  drt_recon: acc 0.969 ECE 0.052 SOH 2.39%  raw_z: acc 0.945 ECE 0.125 SOH 2.50%  drt_bands: acc 0.725 ECE 0.078 SOH 3.48%
+[f_max_Hz=10.0] 120s  drt_recon: acc 0.763 ECE 0.035 SOH 2.89%  raw_z: acc 0.731 ECE 0.072 SOH 3.17%  drt_bands: acc 0.695 ECE 0.048 SOH 3.43%
+[f_max_Hz=100.0] 139s  drt_recon: acc 0.951 ECE 0.061 SOH 2.21%  raw_z: acc 0.931 ECE 0.131 SOH 2.49%  drt_bands: acc 0.836 ECE 0.125 SOH 2.88%
+[f_max_Hz=1000.0] 161s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[f_max_Hz=10000.0] 199s  drt_recon: acc 0.964 ECE 0.057 SOH 2.26%  raw_z: acc 0.946 ECE 0.142 SOH 2.42%  drt_bands: acc 0.760 ECE 0.111 SOH 3.34%
+[i_dc_C_rate=0] 167s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[i_dc_C_rate=0.05] 179s  drt_recon: acc 0.966 ECE 0.056 SOH 2.14%  raw_z: acc 0.948 ECE 0.135 SOH 2.37%  drt_bands: acc 0.758 ECE 0.102 SOH 3.48%
+[i_dc_C_rate=0.1] 170s  drt_recon: acc 0.969 ECE 0.056 SOH 2.10%  raw_z: acc 0.945 ECE 0.132 SOH 2.33%  drt_bands: acc 0.770 ECE 0.111 SOH 3.46%
+[i_dc_C_rate=0.2] 165s  drt_recon: acc 0.988 ECE 0.042 SOH 1.62%  raw_z: acc 0.978 ECE 0.085 SOH 1.80%  drt_bands: acc 0.856 ECE 0.149 SOH 2.89%
+[i_dc_C_rate=0.3333333333333333] 168s  drt_recon: acc 0.989 ECE 0.042 SOH 1.68%  raw_z: acc 0.980 ECE 0.083 SOH 1.85%  drt_bands: acc 0.876 ECE 0.147 SOH 2.63%
+[i_dc_C_rate=0.5] 174s  drt_recon: acc 0.990 ECE 0.042 SOH 1.48%  raw_z: acc 0.984 ECE 0.083 SOH 1.52%  drt_bands: acc 0.896 ECE 0.162 SOH 2.42%
+[i_dc_C_rate_no_detrend=0.05] 167s  drt_recon: acc 0.965 ECE 0.053 SOH 2.23%  raw_z: acc 0.948 ECE 0.135 SOH 2.34%  drt_bands: acc 0.806 ECE 0.138 SOH 3.21%
+[i_dc_C_rate_no_detrend=0.1] 166s  drt_recon: acc 0.964 ECE 0.055 SOH 2.28%  raw_z: acc 0.956 ECE 0.141 SOH 2.27%  drt_bands: acc 0.792 ECE 0.119 SOH 3.31%
+[i_dc_C_rate_no_detrend=0.3333333333333333] 163s  drt_recon: acc 0.988 ECE 0.045 SOH 2.35%  raw_z: acc 0.986 ECE 0.079 SOH 1.55%  drt_bands: acc 0.822 ECE 0.124 SOH 3.32%
+[n_periods=1] 164s  drt_recon: acc 0.956 ECE 0.060 SOH 2.30%  raw_z: acc 0.907 ECE 0.154 SOH 2.49%  drt_bands: acc 0.757 ECE 0.112 SOH 3.45%
+[n_periods=2] 161s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[noise_scale=1] 162s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[noise_scale=4] 166s  drt_recon: acc 0.907 ECE 0.059 SOH 2.37%  raw_z: acc 0.876 ECE 0.150 SOH 2.66%  drt_bands: acc 0.716 ECE 0.102 SOH 3.72%
+[noise_scale=16] 170s  drt_recon: acc 0.757 ECE 0.040 SOH 3.05%  raw_z: acc 0.716 ECE 0.108 SOH 3.31%  drt_bands: acc 0.621 ECE 0.043 SOH 4.13%
+[n_periods=4] 159s  drt_recon: acc 0.991 ECE 0.046 SOH 2.09%  raw_z: acc 0.977 ECE 0.113 SOH 2.27%  drt_bands: acc 0.824 ECE 0.139 SOH 3.08%
+/usr/local/lib/python3.13/dist-packages/joblib/externals/loky/backend/resource_tracker.py:444: UserWarning: resource_tracker: There appear to be 8 leaked semlock objects to clean up at shutdown: {'/loky-31237-ezvd3q3w': 1, '/loky-31237-aghxv8mb': 1, '/loky-31237-h7fsxbd7': 1, '/loky-31237-3c8ktmxm': 1, '/loky-31237-xb908jix': 1, '/loky-31237-jsjfxgzr': 1, '/loky-31237-fpq2nqi4': 1, '/loky-31237-hokslfbl': 1}
+  warnings.warn(
+/usr/local/lib/python3.13/dist-packages/joblib/externals/loky/backend/resource_tracker.py:444: UserWarning: resource_tracker: There appear to be 4 leaked folder objects to clean up at shutdown: {'/dev/shm/joblib_memmapping_folder_31237_12359d0f5edc4b1cbdcb7a0f9a663a07_78229f64be4a4ad59bda5888bd95d68f': 1, '/dev/shm/joblib_memmapping_folder_31237_29b341eedbcc4bfdac5d8acea631d702_0b73efad096645a48da0152bdfc661f1': 1, '/dev/shm/joblib_memmapping_folder_31237_28e6c46a3f584634927d6a33aace3925_b3d0cd00221b493ca5ae07ab2dbe7b2a': 1, '/dev/shm/joblib_memmapping_folder_31237_df91be9aa97a4da485ff9e193d51e43c_c5f52f38502a4a84bacb61916ced1e30': 1}
+  warnings.warn(
+[n_periods=8] 156s  drt_recon: acc 0.994 ECE 0.039 SOH 2.00%  raw_z: acc 0.980 ECE 0.083 SOH 2.15%  drt_bands: acc 0.836 ECE 0.133 SOH 2.91%
+[skew_us=0] 159s  drt_recon: acc 0.967 ECE 0.057 SOH 2.16%  raw_z: acc 0.951 ECE 0.139 SOH 2.37%  drt_bands: acc 0.751 ECE 0.099 SOH 3.51%
+[skew_us=5] 160s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[skew_us=20] 161s  drt_recon: acc 0.966 ECE 0.059 SOH 2.17%  raw_z: acc 0.948 ECE 0.135 SOH 2.37%  drt_bands: acc 0.769 ECE 0.115 SOH 3.47%
+[skew_us=50] 164s  drt_recon: acc 0.965 ECE 0.056 SOH 2.16%  raw_z: acc 0.949 ECE 0.137 SOH 2.37%  drt_bands: acc 0.756 ECE 0.108 SOH 3.49%
+[skew_us=100] 161s  drt_recon: acc 0.967 ECE 0.057 SOH 2.16%  raw_z: acc 0.947 ECE 0.136 SOH 2.36%  drt_bands: acc 0.744 ECE 0.113 SOH 3.53%
+[aa_mismatch_tol=0.0] 161s  drt_recon: acc 0.970 ECE 0.061 SOH 2.17%  raw_z: acc 0.947 ECE 0.133 SOH 2.38%  drt_bands: acc 0.754 ECE 0.097 SOH 3.49%
+[aa_mismatch_tol=0.05] 164s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[aa_mismatch_tol=0.2] 157s  drt_recon: acc 0.967 ECE 0.057 SOH 2.17%  raw_z: acc 0.950 ECE 0.138 SOH 2.37%  drt_bands: acc 0.759 ECE 0.110 SOH 3.48%
+[soc_error_std=0.0] 157s  drt_recon: acc 0.967 ECE 0.060 SOH 2.17%  raw_z: acc 0.948 ECE 0.134 SOH 2.38%  drt_bands: acc 0.756 ECE 0.100 SOH 3.46%
+[soc_error_std=0.02] 159s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.752 ECE 0.099 SOH 3.46%
+[soc_error_std=0.05] 158s  drt_recon: acc 0.967 ECE 0.059 SOH 2.16%  raw_z: acc 0.947 ECE 0.133 SOH 2.37%  drt_bands: acc 0.753 ECE 0.098 SOH 3.46%
+[soc_error_std=0.1] 159s  drt_recon: acc 0.967 ECE 0.059 SOH 2.18%  raw_z: acc 0.946 ECE 0.134 SOH 2.38%  drt_bands: acc 0.754 ECE 0.103 SOH 3.47%
+[sensing_at_fmax_10kHz=inductor] 189s  drt_recon: acc 0.964 ECE 0.057 SOH 2.26%  raw_z: acc 0.946 ECE 0.142 SOH 2.42%  drt_bands: acc 0.760 ECE 0.111 SOH 3.34%
+[sensing_at_fmax_10kHz=battery] 198s  drt_recon: acc 0.965 ECE 0.057 SOH 2.26%  raw_z: acc 0.949 ECE 0.144 SOH 2.42%  drt_bands: acc 0.751 ECE 0.108 SOH 3.36%

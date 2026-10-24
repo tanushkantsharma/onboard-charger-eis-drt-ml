@@ -1,0 +1,34 @@
+Current loop: {'Kp': 0.032812189937493394, 'Ki': 103.08253485582217, 'f_cross': 5001.190372936894, 'phase_margin_deg': 52.35106851496326, 'gain_margin_dB': 8.940992569773426, 'ripple_pp_A_at_355V': 1.5945626477541375}
+     f_Hz  gain_sim  phase_sim_deg  gain_analytic  phase_analytic_deg
+   1.0000    1.0000        -0.0102         1.0000             -0.0104
+   2.8201    1.0000        -0.0271         0.9999             -0.0276
+   7.9527    0.9998        -0.0696         0.9995             -0.0565
+  22.4271    0.9999        -0.0987         0.9990             -0.0835
+  63.2456    1.0009         0.0761         0.9995             -0.1688
+ 178.3559    1.0102         0.1975         1.0063             -0.5015
+ 502.9734    1.0508        -1.6491         1.0417             -3.0674
+1418.4123    1.0899       -11.1921         1.0882            -14.4934
+4000.0000    1.0692       -37.2022         1.1304            -47.3870
+ i_dc_pack_A  amp_pk_pack_A  crosses_zero  THD_ibat  gain_error
+         0.0            0.3          True   0.00322     0.00154
+         0.0            1.5          True   0.00715     0.00051
+         0.0            4.5          True   0.00249     0.00027
+         0.5            0.3          True   0.02416     0.00269
+         0.5            1.5          True   0.00783     0.00072
+         0.5            4.5          True   0.00244     0.00035
+         1.5            0.3         False   0.00257     0.00230
+         1.5            1.5          True   0.00569     0.00074
+         1.5            4.5          True   0.00252     0.00035
+         4.5            0.3         False   0.00307     0.00131
+         4.5            1.5         False   0.00022     0.00019
+         4.5            4.5          True   0.00217     0.00033
+CC-CV: {'t_charge_min': 112.9, 't_cv_start_min': 97.25, 'cv_sensitivity_at_10mHz': 0.617623346588618, 'cv_sensitivity_at_1Hz': 0.7453866716718707}
+Fast-model validation: {'n_rep': 40, 'std_ratio_median': 0.9750843313700475, 'std_ratio_min': 0.8494050200013242, 'std_ratio_max': 1.1840915477648501, 'max_abs_bias_diff': 0.003994161392647492}
+                                   config  duration_min    dSOC  n_lines  median_rel_err  max_rel_err  median_sigma_rel
+baseline (rest, 0.5 A, 10 mHz-1 kHz, P=2)       11.1110 0.00000       40         0.00622      0.03237           0.00495
+                   low amplitude (0.05 A)       11.1110 0.00000       40         0.00838      0.17699           0.00771
+            during C/3 charge, no detrend       11.1110 0.05989       40         0.01407      1.01503           0.00215
+             during C/3 charge, detrended       11.1110 0.05989       40         0.00436      0.02663           0.00184
+                       50 us channel skew       11.1110 0.00000       40         0.01020      0.24329           0.00567
+               inductor sensing to 10 kHz       11.1111 0.00000       48         0.00913      0.28605           0.00540
+done in 80 s

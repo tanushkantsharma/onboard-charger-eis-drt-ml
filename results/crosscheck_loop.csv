@@ -1,0 +1,4 @@
+pack_model,f_cross_Hz,phase_margin_deg,gain_margin_dB
+1 Ohm resistor (MATLAB script),5086.24,54.75,8.9
+"R0 0.165 + RC(0.466 Ohm, tau 15.9 ms)",5002.71,52.32,8.94
+"main analysis (src/cdrt/charger.py, PyBaMM pack impedance)",5001.19,52.35,8.94

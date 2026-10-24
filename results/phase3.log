@@ -1,0 +1,10 @@
+laplace  vs long-run reference (48 feature-spectrum pairs): std ratio median 1.79 (IQR 0.88-2.70); |mean diff|/ref std median 1.04, 90th pct 3.77
+gibbs    vs long-run reference (48 feature-spectrum pairs): std ratio median 1.01 (IQR 0.96-1.05); |mean diff|/ref std median 0.07, 90th pct 0.24
+lab               drt_recon|bol acc 0.999/0.997 ECE 0.024/0.051  SOH RMSE 1.74% cov90 mc 0.32 trees 0.89 conf 0.94  (808s)
+lab               drt_bands|bol acc 0.954/0.826 ECE 0.117/0.137  SOH RMSE 1.55% cov90 mc 0.34 trees 0.85 conf 0.90  (915s)
+lab               raw_z|bol acc 0.999/0.999 ECE 0.026/0.026  SOH RMSE 1.73% cov90 mc 0.00 trees 0.92 conf 0.93  (1013s)
+lab               drt_recon|abs acc 0.320/0.301 ECE 0.265/0.302  SOH RMSE 4.91% cov90 mc 0.08 trees 0.78 conf 0.95  (1473s)
+charger_baseline  drt_recon|bol acc 0.964/0.954 ECE 0.052/0.076  SOH RMSE 2.14% cov90 mc 0.29 trees 0.87 conf 0.93  (2073s)
+charger_baseline  drt_bands|bol acc 0.764/0.746 ECE 0.115/0.097  SOH RMSE 3.41% cov90 mc 0.30 trees 0.86 conf 0.92  (2169s)
+charger_baseline  raw_z|bol acc 0.945/0.945 ECE 0.132/0.132  SOH RMSE 2.36% cov90 mc 0.00 trees 0.90 conf 0.92  (2247s)
+charger_baseline  drt_recon|abs acc 0.295/0.311 ECE 0.307/0.334  SOH RMSE 4.76% cov90 mc 0.10 trees 0.80 conf 0.96  (2587s)

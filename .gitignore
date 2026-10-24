@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Large regenerable caches (recreated by the phase scripts)
+data/*.pkl
+data/external/
+# Third-party dataset: download from Mendeley Data yourself (see README)
+
+# Build products and temporary files
+paper/batteries/_refdoc_tmp/
+paper/batteries/supplementary_built.md
+paper/batteries/ref_default.docx
+paper/batteries/*.pdf
+paper/batteries/*.docx
+!paper/batteries/mdpi_reference.docx
+paper/paper_draft.*
+paper/_*.md
+scripts/build_paper.py
+
+# Personal / career documents (not part of the research record)
+docs/interview_prep.*
+docs/project_summary_and_resume.*
+docs/*.docx
+
+# OS / editor
+.DS_Store
+*.swp

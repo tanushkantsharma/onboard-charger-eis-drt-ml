@@ -1,0 +1,27 @@
+{
+  "loop": {
+    "Kp": 0.032812189937493394,
+    "Ki": 103.08253485582217,
+    "f_cross": 5001.190372936894,
+    "phase_margin_deg": 52.35106851496326,
+    "gain_margin_dB": 8.940992569773426,
+    "ripple_pp_A_at_355V": 1.5945626477541375
+  },
+  "deadtime": {
+    "max_THD_crossing": 0.02415824847326696,
+    "max_THD_no_crossing": 0.003067530077589701
+  },
+  "cccv": {
+    "t_charge_min": 112.9,
+    "t_cv_start_min": 97.25,
+    "cv_sensitivity_at_10mHz": 0.617623346588618,
+    "cv_sensitivity_at_1Hz": 0.7453866716718707
+  },
+  "validation": {
+    "n_rep": 40,
+    "std_ratio_median": 0.9750843313700475,
+    "std_ratio_min": 0.8494050200013242,
+    "std_ratio_max": 1.1840915477648501,
+    "max_abs_bias_diff": 0.003994161392647492
+  }
+}

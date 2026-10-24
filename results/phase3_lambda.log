@@ -1,0 +1,21 @@
+         lam  median_rel_log_evidence  n_spectra_preferring
+       100.0               -32.269958                     0
+      1000.0               -13.797134                     0
+     10000.0                -1.042313                   110
+    100000.0                 0.000000                   158
+   1000000.0               -24.184712                     2
+  10000000.0              -110.742521                     0
+ 100000000.0              -361.363443                     0
+1000000000.0             -1031.179731                     0
+{'lam': 100.0, 'representation': 'drt_bands', 'acc': np.float64(0.6580246913580247), 'ece': 0.06235800657961151, 'soh_rmse': np.float64(0.03660148710495468)}
+{'lam': 100.0, 'representation': 'drt_recon', 'acc': np.float64(0.9709876543209877), 'ece': 0.0568289745633882, 'soh_rmse': np.float64(0.021567573758079488)}
+{'lam': 10000.0, 'representation': 'drt_bands', 'acc': np.float64(0.7191358024691358), 'ece': 0.10290343899955084, 'soh_rmse': np.float64(0.03562023075256406)}
+{'lam': 10000.0, 'representation': 'drt_recon', 'acc': np.float64(0.967283950617284), 'ece': 0.053882903030896906, 'soh_rmse': np.float64(0.02143353746512774)}
+{'lam': 100000.0, 'representation': 'drt_bands', 'acc': np.float64(0.774074074074074), 'ece': 0.12423913724766514, 'soh_rmse': np.float64(0.03412617196624178)}
+{'lam': 100000.0, 'representation': 'drt_recon', 'acc': np.float64(0.9660493827160493), 'ece': 0.05315855653834052, 'soh_rmse': np.float64(0.02146606085237352)}
+{'lam': 1000000.0, 'representation': 'drt_bands', 'acc': np.float64(0.8104938271604938), 'ece': 0.12552567614712676, 'soh_rmse': np.float64(0.03268426703974811)}
+{'lam': 1000000.0, 'representation': 'drt_recon', 'acc': np.float64(0.9604938271604938), 'ece': 0.05304073012606958, 'soh_rmse': np.float64(0.021468053230548585)}
+{'lam': 10000000.0, 'representation': 'drt_bands', 'acc': np.float64(0.8555555555555555), 'ece': 0.14838477648323337, 'soh_rmse': np.float64(0.02894963242422352)}
+{'lam': 10000000.0, 'representation': 'drt_recon', 'acc': np.float64(0.9524691358024692), 'ece': 0.05570649736637403, 'soh_rmse': np.float64(0.02178497643510364)}
+{'lam': 100000000.0, 'representation': 'drt_bands', 'acc': np.float64(0.8438271604938271), 'ece': 0.1467159652818604, 'soh_rmse': np.float64(0.027802173026815556)}
+{'lam': 100000000.0, 'representation': 'drt_recon', 'acc': np.float64(0.9320987654320988), 'ece': 0.06055760663661898, 'soh_rmse': np.float64(0.022153237775408372)}

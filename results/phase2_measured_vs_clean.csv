@@ -1,0 +1,7 @@
+config,duration_min,dSOC,n_lines,median_rel_err,max_rel_err,median_sigma_rel
+"baseline (rest, 0.5 A, 10 mHz-1 kHz, P=2)",11.111,0.0,40,0.00622,0.03237,0.00495
+low amplitude (0.05 A),11.111,0.0,40,0.00838,0.17699,0.00771
+"during C/3 charge, no detrend",11.111,0.05989,40,0.01407,1.01503,0.00215
+"during C/3 charge, detrended",11.111,0.05989,40,0.00436,0.02663,0.00184
+50 us channel skew,11.111,0.0,40,0.0102,0.24329,0.00567
+inductor sensing to 10 kHz,11.1111,0.0,48,0.00913,0.28605,0.0054

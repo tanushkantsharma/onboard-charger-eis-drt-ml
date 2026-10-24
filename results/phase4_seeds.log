@@ -1,0 +1,7 @@
+[seed_repeat=0] 157s  drt_recon: acc 0.973 ECE 0.051 SOH 2.17%  raw_z: acc 0.954 ECE 0.137 SOH 2.37%  drt_bands: acc 0.737 ECE 0.099 SOH 3.50%
+[seed_repeat=1] 160s  drt_recon: acc 0.957 ECE 0.047 SOH 2.21%  raw_z: acc 0.937 ECE 0.125 SOH 2.39%  drt_bands: acc 0.754 ECE 0.105 SOH 3.42%
+[seed_repeat=2] 156s  drt_recon: acc 0.973 ECE 0.056 SOH 2.18%  raw_z: acc 0.943 ECE 0.131 SOH 2.41%  drt_bands: acc 0.751 ECE 0.100 SOH 3.35%
+[check_rest_no_deadtime_distortion=0] 155s  drt_recon: acc 0.991 ECE 0.046 SOH 1.99%  raw_z: acc 0.978 ECE 0.084 SOH 2.12%  drt_bands: acc 0.808 ECE 0.121 SOH 3.21%
+[bol_reference_source=same_charger_skew50us_tol20pct] 157s  drt_recon: acc 0.967 ECE 0.056 SOH 2.17%  raw_z: acc 0.946 ECE 0.135 SOH 2.37%  drt_bands: acc 0.766 ECE 0.119 SOH 3.49%
+[bol_reference_source=eol_tester_charger_skew50us_tol20pct] 155s  drt_recon: acc 0.974 ECE 0.050 SOH 2.17%  raw_z: acc 0.960 ECE 0.101 SOH 2.29%  drt_bands: acc 0.806 ECE 0.124 SOH 3.27%
+[bol_reference_source=eol_tester_baseline_charger] 157s  drt_recon: acc 0.981 ECE 0.046 SOH 2.12%  raw_z: acc 0.969 ECE 0.103 SOH 2.28%  drt_bands: acc 0.823 ECE 0.131 SOH 3.23%

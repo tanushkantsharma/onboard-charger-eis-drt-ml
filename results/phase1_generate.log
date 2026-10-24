@@ -1,0 +1,31 @@
+[Parallel(n_jobs=2)]: Using backend LokyBackend with 2 concurrent workers.
+[Parallel(n_jobs=2)]: Done  14 tasks      | elapsed:   13.1s
+[Parallel(n_jobs=2)]: Done  68 tasks      | elapsed:   50.0s
+[Parallel(n_jobs=2)]: Done 158 tasks      | elapsed:  1.9min
+[Parallel(n_jobs=2)]: Done 284 tasks      | elapsed:  3.2min
+[Parallel(n_jobs=2)]: Done 446 tasks      | elapsed:  5.0min
+[Parallel(n_jobs=2)]: Done 630 out of 630 | elapsed:  6.9min finished
+simulated 630 states in 416 s
+                     mean    min    max
+mechanism severity                     
+LAM       0.00      1.000  1.000  1.000
+          0.15      0.983  0.953  0.997
+          0.30      0.967  0.905  0.993
+          0.45      0.950  0.858  0.990
+          0.60      0.933  0.810  0.987
+          0.80      0.911  0.747  0.982
+          1.00      0.891  0.717  0.977
+PLATING   0.00      1.000  1.000  1.000
+          0.15      0.977  0.966  0.985
+          0.30      0.955  0.932  0.971
+          0.45      0.932  0.898  0.956
+          0.60      0.909  0.864  0.942
+          0.80      0.879  0.818  0.922
+          1.00      0.853  0.788  0.903
+SEI       0.00      1.000  1.000  1.000
+          0.15      0.979  0.969  0.987
+          0.30      0.957  0.938  0.974
+          0.45      0.936  0.908  0.961
+          0.60      0.915  0.877  0.948
+          0.80      0.886  0.836  0.931
+          1.00      0.862  0.805  0.914

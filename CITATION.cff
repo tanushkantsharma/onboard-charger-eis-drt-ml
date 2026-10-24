@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or results, please cite it as below."
+title: "Machine learning diagnosis of lithium-ion degradation mechanisms from on-board-charger impedance measurements: code and results"
+type: software
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    affiliation: "Indian Institute of Technology Hyderabad"
+license: MIT
+repository-code: "https://github.com/[your-username]/[repo-name]"
+version: 1.0.0
+date-released: 2026-10-25
+keywords:
+  - lithium-ion battery
+  - electrochemical impedance spectroscopy
+  - distribution of relaxation times
+  - on-board charger
+  - machine learning
+  - uncertainty quantification
